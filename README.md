@@ -91,8 +91,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinisha014&show_icons=true&theme=radical" height="180"](https://github-readme-stats-sigma-five.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinisha014&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
