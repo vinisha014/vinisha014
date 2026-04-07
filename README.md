@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=ffffff&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AI+Systems+Builder;Building+Scalable+Solutions" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=2"/>
 
 ---
 
