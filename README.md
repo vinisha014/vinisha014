@@ -8,11 +8,17 @@
   <a href="https://leetcode.com/vinisha014">LeetCode</a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AI+Systems+Builder;Building+Scalable+Solutions" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2"/>
+
 ---
 
 ## 🧠 Who I Am
 I build **intelligent, scalable systems** at the intersection of **Cloud, DevOps, and AI**.  
-My focus is on designing solutions that are not just functional, but **efficient, automated, and production-ready**.
+Focused on creating solutions that are **efficient, automated, and production-ready**.
 
 ---
 
@@ -20,25 +26,25 @@ My focus is on designing solutions that are not just functional, but **efficient
 - ⚙️ Designing **CI/CD pipelines & deployment workflows**
 - ☁️ Building **cloud-native applications on AWS**
 - 🧠 Developing **AI-driven decision systems**
-- 📊 Improving **system reliability, scalability, and automation**
+- 📊 Improving **system scalability and reliability**
 
 ---
 
 ## ⚡ Core Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-lightgrey?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-lightgrey?style=for-the-badge&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-lightgrey?style=for-the-badge&logo=kubernetes&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-lightgrey?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-lightgrey?style=for-the-badge&logo=mongodb&logoColor=black"/>
 </p>
 
 ---
@@ -47,39 +53,39 @@ My focus is on designing solutions that are not just functional, but **efficient
 
 ### 🧠 Smart TN Grievance  
 **AI-Powered Civic Intelligence System**
-- Built hybrid **NLP + rule-based classification pipeline**
-- Integrated **AWS Transcribe & Rekognition** for multi-modal input
-- Achieved ~80% accuracy using Naive Bayes
-- Designed **THIRA-based prioritization** → ↓ manual effort by 40%
-- Developed scalable APIs using **Node.js + MongoDB**
+- NLP + rule-based classification pipeline  
+- AWS Transcribe & Rekognition integration  
+- Naive Bayes model (~80% accuracy)  
+- THIRA-based prioritization → ↓ manual effort by 40%  
+- REST APIs with Node.js & MongoDB  
 
 ---
 
 ### ⚖️ EthicRoute AI  
 **AI-Based Ethical Decision Engine**
-- Designed **Human Impact Score (HIS)** for dynamic prioritization
-- Built ML model (~50–70% consistency)
-- Implemented **explainable AI reasoning layer**
-- Reduced decision latency by ~30%
-- Replaced static rules with adaptive scoring systems
+- Human Impact Score (HIS) for prioritization  
+- ML model (~50–70% consistency)  
+- Explainable AI reasoning layer  
+- Reduced decision latency by ~30%  
+- Adaptive real-time scoring system  
 
 ---
 
 ### 💊 MedQuanta  
 **Cloud-Native Drug Inventory System**
-- Built scalable system using **React, Express, MongoDB**
-- Deployed backend services on **AWS**
-- Integrated **AI assistant for insights & predictions**
-- Reduced manual entry by 60% via bulk upload system
-- Implemented **CI/CD pipelines (Docker + GitHub Actions + K8s)**
-- Enabled real-time monitoring dashboards
+- Built using React, Express, MongoDB  
+- AWS-based scalable backend deployment  
+- AI assistant for insights & predictions  
+- Bulk upload → ↓ manual entry by 60%  
+- CI/CD pipelines with Docker & GitHub Actions  
+- Real-time dashboards for monitoring  
 
 ---
 
 ## 🧩 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vinisha014?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/vinisha014?theme=light&font=Karma"/>
 </p>
 
 ---
@@ -87,8 +93,8 @@ My focus is on designing solutions that are not just functional, but **efficient
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinisha014&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinisha014&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=default&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -109,14 +115,12 @@ My focus is on designing solutions that are not just functional, but **efficient
 ---
 
 ## 🧭 Engineering Philosophy
-> Build systems that are **scalable, observable, and intelligent** — not just functional.
+> Build systems that are scalable, reliable, and intelligent — not just functional.
 
 ---
 
 <p align="center">
 ⭐️ If you find my work interesting, feel free to explore my repositories!
 </p>
-
----
 
 <p align="center">⭐️ From <a href="https://github.com/vinisha014">Vinisha Akanya A</a></p>
