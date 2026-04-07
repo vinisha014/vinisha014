@@ -1,60 +1,120 @@
-# Hi there 👋, I'm Vinisha Akanya A!
+<h1 align="center">Hi 👋, I'm Vinisha Akanya A</h1>
+<h3 align="center">Cloud & DevOps Engineer | AI Enthusiast</h3>
 
-💻 Cloud | DevOps 
-🚀 Currently building **MedQuanta** (Healthcare Inventory & Insights System)  
-📚 Exploring **AWS | Docker | Kubernetes | AI Integrations**  
-🎯 Goal: To become a skilled DevOps + Cloud Engineer  
-
----
-
-## 👩‍💻 About Me
-- 🔧 Passionate about solving problems with technology  
-- 🌱 Contributing to open-source & personal projects  
-- 📘 Learning: Linux, Cloud, DevOps, and AI  
-- 🎲 Also enjoy building creative text-based games & writing stories  
+<p align="center">
+  <a href="mailto:vinisha0014@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://github.com/vinisha014">GitHub</a> •
+  <a href="https://leetcode.com/vinisha014">LeetCode</a>
+</p>
 
 ---
 
-## ⚡ Technical Skills
+## 🚀 About Me
+- ☁️ Focused on **Cloud Computing & DevOps**
+- ⚙️ Interested in **automation, CI/CD, and scalable systems**
+- 🤖 Building **AI-powered solutions with real-world impact**
+- 🌱 Currently learning **Kubernetes, advanced AWS & system design**
+- 🎯 Goal: Becoming a **DevOps & Cloud Specialist**
+
+---
+
+## ⚡ Tech Stack
 
 ### ☁️ Cloud & DevOps
-- AWS, Docker, Kubernetes, Jenkins  
+<p>
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
 
 ### 💻 Programming
-- Java (Intermediate), Python (Basics)  
+<p>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+### 🧠 AI / Backend Exposure
+<p>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🖥️ Systems
-- Linux (Ubuntu)  
-
-### 🧠 Soft Skills
-- Adaptability, Problem-Solving, Communication, Leadership  
+<p>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-- [**MedQuanta**](https://github.com/yourusername/medquanta) – Drug Inventory & Supply Chain Tracking System (React + Express + MongoDB + AI Chatbot)  
-- [**EthicRouteAI**](https://github.com/yourusername/liveblind) – Assistive AI app for visually & hearing-impaired  
-- [**100 Days of DevOps**](https://github.com/yourusername/100DaysOfDevOps) – Daily DevOps practice (Linux, Docker, CI/CD, AWS)  
-- [**Smart TN Grievance**](https://github.com/yourusername/mystery-games) – Interactive text-based mystery & horror games  
+
+### 🧠 Smart TN Grievance
+**AI-Powered Civic Grievance System**
+- NLP + rule-based classification  
+- AWS Transcribe & Rekognition integration  
+- Naive Bayes model (~80% accuracy)  
+- THIRA-based prioritization → ⬇ manual effort by 40%  
+- REST APIs using Node.js & Express with MongoDB  
 
 ---
 
-## 📊 GitHub Stats
-![Vinisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisha014&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=radical)  
+### ⚖️ EthicRoute AI
+**AI-Driven Ethical Delivery System**
+- Human Impact Score (HIS) for prioritization  
+- ML model (~50–70% consistency)  
+- Explainable AI reasoning layer  
+- ⬇ Decision latency by 30%  
+- Adaptive real-time scoring system  
 
 ---
 
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vinisha014?theme=dark&font=Karma&ext=contest)  
+### 💊 MedQuanta
+**Drug Inventory & Supply Chain System**
+- Cloud-based system using React, Express, MongoDB  
+- AWS deployment for scalable backend services  
+- AI assistant for insights & predictions  
+- Bulk upload → ⬇ manual entry by 60%  
+- Real-time dashboards for monitoring  
+- CI/CD with GitHub Actions, Docker & Kubernetes  
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vinisha-akanya-a-54628b2a2)  
-- [Portfolio](https://yourwebsite.com)  
-- [LeetCode](https://leetcode.com/vinisha014/)  
+## 🧩 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vinisha014?theme=dark&font=Karma&ext=contest"/>
+</p>
 
 ---
-*“Building scalable systems and solving real-world problems with technology.”* 
-⭐️ From [Vinisha Akanya A](https://github.com/vinisha014)
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinisha014&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 📜 Certifications
+- ☁️ AWS Certified Cloud Practitioner  
+- AWS Academy – Introduction to Cloud (Sem 1 & 2)  
+- NPTEL – Cloud IoT Edge ML (Elite)  
+- NPTEL – Python for Data Science (Elite Silver)  
+- Cisco Networking – Networking Basics  
+
+---
+
+## 🏆 Achievements
+- 🥇 Hackathon Finalist – Codeathon 2.0 | Blaze-A-Trail 3.0  
+- 🥈 2nd Place – HIT THE BUG (SRM University)  
+
+---
+
+## 🌟 Quote
+> "Building scalable systems and solving real-world problems with technology."
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/vinisha014">Vinisha Akanya A</a></p>
