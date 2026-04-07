@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vinisha Akanya A!
 
-💻 Cloud | DevOps | Full-Stack Developer  
+💻 Cloud | DevOps 
 🚀 Currently building **MedQuanta** (Healthcare Inventory & Insights System)  
 📚 Exploring **AWS | Docker | Kubernetes | AI Integrations**  
 🎯 Goal: To become a skilled DevOps + Cloud Engineer  
@@ -15,12 +15,19 @@
 
 ---
 
-## ⚡ Tech Stack
-- 💻 Languages: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-- 🌐 Frontend: ![React](https://img.shields.io/badge/-React-blue) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
-- ⚙️ Backend: ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express](https://img.shields.io/badge/-Express-lightgrey)  
-- 🗄️ Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)  
-- ☁️ Cloud & DevOps: ![AWS](https://img.shields.io/badge/-AWS-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Linux](https://img.shields.io/badge/-Linux-black)  
+## ⚡ Technical Skills
+
+### ☁️ Cloud & DevOps
+- AWS, Docker, Kubernetes, Jenkins  
+
+### 💻 Programming
+- Java (Intermediate), Python (Basics)  
+
+### 🖥️ Systems
+- Linux (Ubuntu)  
+
+### 🧠 Soft Skills
+- Adaptability, Problem-Solving, Communication, Leadership  
 
 ---
 
@@ -34,7 +41,7 @@
 
 ## 📊 GitHub Stats
 ![Vinisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisha014&layout=compact&theme=radical)  
 
 ---
 
@@ -44,9 +51,10 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn](https://www.linkedin.com/in/vinisha-akanya-a-54628b2a2)  
 - [Portfolio](https://yourwebsite.com)  
 - [LeetCode](https://leetcode.com/vinisha014/)  
 
 ---
-⭐️ From [yourusername](https://github.com/vinisha014)
+*“Building scalable systems and solving real-world problems with technology.”* 
+⭐️ From [Vinisha Akanya A](https://github.com/vinisha014)
