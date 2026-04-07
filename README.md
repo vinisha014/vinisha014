@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:vinisha0014@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vinisha-akanya-a-54628b2a2/">LinkedIn</a> •
   <a href="https://github.com/vinisha014">GitHub</a> •
   <a href="https://leetcode.com/vinisha014">LeetCode</a>
 </p>
