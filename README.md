@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm Vinisha Akanya A!
 
-<!--
-**vinisha014/vinisha014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cloud | DevOps | Full-Stack Developer  
+🚀 Currently building **MedQuanta** (Healthcare Inventory & Insights System)  
+📚 Exploring **AWS | Docker | Kubernetes | AI Integrations**  
+🎯 Goal: To become a skilled DevOps + Cloud Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🔧 Passionate about solving problems with technology  
+- 🌱 Contributing to open-source & personal projects  
+- 📘 Learning: Linux, Cloud, DevOps, and AI  
+- 🎲 Also enjoy building creative text-based games & writing stories  
+
+---
+
+## ⚡ Tech Stack
+- 💻 Languages: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+- 🌐 Frontend: ![React](https://img.shields.io/badge/-React-blue) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)  
+- ⚙️ Backend: ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express](https://img.shields.io/badge/-Express-lightgrey)  
+- 🗄️ Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)  
+- ☁️ Cloud & DevOps: ![AWS](https://img.shields.io/badge/-AWS-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Linux](https://img.shields.io/badge/-Linux-black)  
+
+---
+
+## 🚀 Featured Projects
+- [**MedQuanta**](https://github.com/yourusername/medquanta) – Drug Inventory & Supply Chain Tracking System (React + Express + MongoDB + AI Chatbot)  
+- [**EthicRouteAI**](https://github.com/yourusername/liveblind) – Assistive AI app for visually & hearing-impaired  
+- [**100 Days of DevOps**](https://github.com/yourusername/100DaysOfDevOps) – Daily DevOps practice (Linux, Docker, CI/CD, AWS)  
+- [**Smart TN Grievance**](https://github.com/yourusername/mystery-games) – Interactive text-based mystery & horror games  
+
+---
+
+## 📊 GitHub Stats
+![Vinisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vinisha014?theme=dark&font=Karma&ext=contest)  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Portfolio](https://yourwebsite.com)  
+- [LeetCode](https://leetcode.com/vinisha014/)  
+
+---
+⭐️ From [yourusername](https://github.com/vinisha014)
