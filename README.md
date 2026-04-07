@@ -42,7 +42,6 @@ Focused on creating solutions that are **efficient, automated, and production-re
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=java&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-lightgrey?style=for-the-badge&logo=mongodb&logoColor=black"/>
 </p>
